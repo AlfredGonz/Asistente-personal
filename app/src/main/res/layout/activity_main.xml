@@ -57,7 +57,7 @@
                             android:text="@string/texto_escuchado"
                             android:textColor="#212121"
                             android:textSize="17dp"
-                            android:id="@+id/tv_respuesta"/>
+                            android:id="@+id/tv_escuchado"/>
 
                     </LinearLayout>
 
@@ -89,7 +89,8 @@
                             android:layout_height="wrap_content"
                             android:text="@string/texto_respuesta"
                             android:textColor="#212121"
-                            android:textSize="17dp"/>
+                            android:textSize="17dp"
+                            android:id="@+id/tv_respuesta"/>
 
                     </LinearLayout>
 
