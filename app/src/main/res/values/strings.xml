@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asistente</string>
+    <string name="titulo_escuchado">Escuchado</string>
+    <string name="texto_escuchado">Escuchado</string>
+    <string name="titulo_respuesta">Respuesta</string>
+    <string name="texto_respuesta">Respuesta</string>
+</resources>
